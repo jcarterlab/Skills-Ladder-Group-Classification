@@ -4,4 +4,4 @@ Skills Ladder is an IT training company based in Gloucestershire, the United Kin
 
 <br/>
 
-The notebook can be found [here.](Group-Classification.ipynb.ipynb)
+The notebook can be found [here.](Group-Classification.ipynb)
